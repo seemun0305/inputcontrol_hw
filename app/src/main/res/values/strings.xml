@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">inputcontrol_hw</string>
+    <string name="i_am_satisfied_with_the_content_and_full_description">I am satisfied with the content and full description.</string>
+    <string name="chocolate_syrup">Chocolate Syrup</string>
+    <string name="spinkles">Spinkles</string>
+    <string name="crushed_nuts">Crushed Nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="orio_cookies_crumbles">Orio Cookies Crumbles</string>
+    <string name="show_toast">Show Toast</string>
+</resources>
